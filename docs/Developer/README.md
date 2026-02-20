@@ -1,3 +1,2 @@
-# Developer Documentation
+# Getting Started
 
-Technical documentation for building on DOS Chain.
