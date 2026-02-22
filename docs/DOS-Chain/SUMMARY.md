@@ -1,11 +1,11 @@
 # Table of contents
 
 * [DOS Overview](README.md)
-  * [Architecture](dos-overview/architecture.md)
-  * [Network Details](dos-overview/network-details.md)
-  * [DOS Tokenomics](dos-overview/dos-tokenomics.md)
-  * [Get DOS Tokens](dos-overview/get-dos-tokens.md)
-* [Contract Addresses](contract-addresses.md)
+  * [Architecture](overview/architecture.md)
+  * [Network Details](overview/network-details.md)
+  * [DOS Tokenomics](overview/dos-tokenomics.md)
+  * [Get DOS Tokens](overview/get-dos-tokens.md)
+* [Contract Addresses](addresses.md)
 * [Validators](validators/README.md)
   * [Run a Mainnet Node on DOS Chain](validators/run-a-mainnet-node-on-dos-chain.md)
   * [How to add validator to DOS Chain with WSL](validators/how-to-add-validator-to-dos-chain-with-wsl.md)

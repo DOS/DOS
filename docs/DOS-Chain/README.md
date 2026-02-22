@@ -1,3 +1,8 @@
+---
+description: DOS Chain architecture and overview
+icon: circle-info
+---
+
 # DOS Overview
 
 ### DOS Chain: The Future of AI-Powered Web3 Gaming[​](https://docs.avax.network/#introduction)﻿ <a href="#id-27gig" id="id-27gig"></a>
