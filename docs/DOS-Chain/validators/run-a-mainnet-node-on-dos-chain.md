@@ -62,9 +62,9 @@ curl -X POST --data '{
 
 ## Run a Subnet Node
 
-[https://docs.avax.network/nodes/run/subnet-node](https://docs.avax.network/nodes/run/subnet-node)
+[https://build.avax.network/docs/nodes/run-a-node/avalanche-l1-nodes](https://build.avax.network/docs/nodes/run-a-node/avalanche-l1-nodes)
 
-{% embed url="https://docs.avax.network/nodes/run/subnet-node" %}
+{% embed url="https://build.avax.network/docs/nodes/run-a-node/avalanche-l1-nodes" %}
 
 ### Option1: Build Subnet Binaries[​](https://docs.avax.network/nodes/run/subnet-node#manage-the-subnet-binaries) <a href="#manage-the-subnet-binaries" id="manage-the-subnet-binaries"></a>
 
